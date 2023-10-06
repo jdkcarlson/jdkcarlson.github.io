@@ -1,0 +1,212 @@
+# One can execute this code oneself (selecting "GAP" rather than "SAGE") at
+# https://sagecell.sagemath.org/ .
+
+
+
+# Here is the code for the F4 root system and described D4 subgroups
+
+F4_simple_roots := [
+[1,-1,0,0],
+[0,1,-1,0],
+[0,0,1,0],
+[-1,-1,-1,-1]/2
+];;
+W := Group(List(F4_simple_roots,ReflectionMat));;
+
+
+posF4 := [
+[1,-1,0,0],
+[1,0,-1,0],
+[1,0,0,-1],
+[0,1,-1,0],
+[0,1,0,-1],
+[0,0,1,-1],
+[1,1,0,0],
+[1,0,1,0],
+[1,0,0,1],
+[0,1,1,0],
+[0,1,0,1],
+[0,0,1,1],
+[1,0,0,0],
+[0,1,0,0],
+[0,0,1,0],
+[0,0,0,1],
+[1,-1,-1,-1]/2,
+[1,-1,-1,1]/2,
+[1,-1,1,-1]/2,
+[1,1,-1,-1]/2,
+[1,-1,1,1]/2,
+[1,1,-1,1]/2,
+[1,1,1,-1]/2,
+[1,1,1,1]/2
+];;
+
+
+
+pos1B4 := [
+[1,-1,0,0],
+[1,0,-1,0],
+[1,0,0,-1],
+[0,1,-1,0],
+[0,1,0,-1],
+[0,0,1,-1],
+[1,1,0,0],
+[1,0,1,0],
+[1,0,0,1],
+[0,1,1,0],
+[0,1,0,1],
+[0,0,1,1],
+[1,0,0,0],
+[0,1,0,0],
+[0,0,1,0],
+[0,0,0,1]
+];;
+
+
+pos2B4 := [
+[1,-1,0,0],
+[1,0,-1,0],
+[1,0,0,-1],
+[0,1,-1,0],
+[0,1,0,-1],
+[0,0,1,-1],
+[1,1,0,0],
+[1,0,1,0],
+[1,0,0,1],
+[0,1,1,0],
+[0,1,0,1],
+[0,0,1,1],
+[1,-1,-1,-1]/2,
+[1,-1,1,1]/2,
+[1,1,-1,1]/2,
+[1,1,1,-1]/2,
+];;
+
+
+
+for w in W do
+    m := 0;
+    for v in pos1B4 do
+        if w*v in posF4 then
+            m := m+1;
+        fi;
+    od;
+    if m = 16 then
+        Print(w);
+        Print("  -  ");
+    fi;
+od;
+
+
+
+
+
+Print(" ------  ");
+
+
+
+
+for w in W do
+    m := 0;
+    for v in pos2B4 do
+        if w*v in posF4 then
+            m := m+1;
+        fi;
+    od;
+    if m = 16 then
+        Print(w);
+        Print("  -  ");
+    fi;
+od;
+
+
+
+
+
+
+# Here is the code for the C3 root system and described A3 subgroups
+
+C3_simple_roots := [
+[1,-1,0],
+[0,1,-1],
+[0,0,2]
+];;
+W := Group(List(C3_simple_roots,ReflectionMat));;
+
+
+posC3 := [
+[1,-1,0],
+[1,0,-1],
+[0,1,-1],
+[2,0,0],
+[0,2,0],
+[0,0,2],
+[1,1,0],
+[1,0,1],
+[0,1,1]
+];;
+
+
+
+posK := [
+[1,-1,0],
+[2,0,0],
+[0,2,0],
+[0,0,2],
+[1,1,0]
+];;
+
+
+
+posL := [
+[0,1,-1],
+[2,0,0],
+[0,2,0],
+[0,0,2],
+[0,1,1]
+];;
+
+
+
+
+for w in W do
+    m := 0;
+    for v in posK do
+        if w*v in posC3 then
+            m := m+1;
+        fi;
+    od;
+    if m = 5 then
+        Print(w);
+        Print("  -  ");
+    fi;
+od;
+
+
+
+
+Print(" ------  ");
+
+
+
+for w in W do
+    m := 0;
+    for v in posL do
+        if w*v in posC3 then
+            m := m+1;
+        fi;
+    od;
+    if m = 5 then
+        Print(w);
+        Print("  -  ");
+    fi;
+od;
+
+
+
+
+
+
+
+
+

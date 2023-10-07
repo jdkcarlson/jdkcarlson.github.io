@@ -5,7 +5,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Cardo:400,400italic|UnifrakturCook:700|Lato:100,300,400|PT+Sans:400,400italic|Open+Sans:300italic,400,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	<style type='text/css'>
 		body {
-			background-color: #171111;
+			background-color: #0a0000;
 			font-size: 1em;
 			color: #c0c0e3;
 		/*	color: #c0c0ff;*/
@@ -476,6 +476,7 @@ Revisions have been requested and material will be added to this in the coming m
 <li>
 <a href="https://www.ma.imperial.ac.uk/~jcarlson/realization.pdf">Realization of abstract GKM isotropy data</a>,
 with Elisheva Adina Gamse and Yael Karshon. 
+<p>
 <span style="color:#ff0000">
 Still in progress, much changed; ask if you want a more recent version.
 </span>
@@ -541,8 +542,8 @@ essentially reduce to questions about embeddings of tori.
 <p>
 <span style="color:#ff0000">N.B.</span>:
 This is not the final version. 
-This book is shortly to be the subject of a major revision at
-the behest of Springer and its polite, diligent referees.
+This book is to be the subject of a major revision at
+the behest of Springer and its diligent referees.
 
 
 
@@ -590,7 +591,7 @@ through his development of GKM-theory and I noticed older methods gave a clean p
 This also gave me the chance to publish a proof of a structure result from a late, unpubished version of my thesis which was in danger of becoming folklore. 
 </span>
 Published in the <i>Proceedings of the American Mathematical Society</i>.
-<span style="color:#ff0000">This needs an arXiv update.</span>
+<span style="color:#ff0000">The published version differs substantially from the arXiv version</span>, 
 
 
 <li>

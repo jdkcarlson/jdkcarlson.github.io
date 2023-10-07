@@ -5,8 +5,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Cardo:400,400italic|UnifrakturCook:700|Lato:100,300,400|PT+Sans:400,400italic|Open+Sans:300italic,400,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	<style type='text/css'>
 		body {
-		/*	background-color: #171111;*/
-			background-color: #0a0000;
+			background-color: #171111;
 			font-size: 1em;
 			color: #c0c0e3;
 		/*	color: #c0c0ff;*/
@@ -205,21 +204,20 @@
 <!--	<a class="address" href="
 			https://www.google.com/maps/place/Huxley+Building/@51.4987164,-0.1786601,16z/
 			"> -->
-			34 Evergreen St.<br />
+			34 Evergreen St.	<br />
 			Providence, RI 02906<br />
-			US			
-
+			US					<br />
 			<!--			</a>	-->
 			<!--	<br />				-->
-			<p class="subtinyspace">
-			<!--	<p class="tinyspace">	
-	</p>
-			<a href="mailto:mailto:j.carlsonATimperialDOTac.uk" class="email">
-				jeffrey.GARBAGEUNSEARCHABLE.carlson@tufts.edu
-				<br/>
+			<!--	
+					<p class="subtinyspace">
+					<p class="tinyspace">	
+					</p>
+					<a href="mailto:mailto:j.carlsonATimperialDOTac.uk" class="email">
+					jeffrey.GARBAGEUNSEARCHABLE.carlson@tufts.edu
+					<br/>
 			</a>
 			-->
-				<br />
 			<a href="mailto:jeffrey.carlsonATtuftsDOTedu" class="email">
 				<!--	<img height=15  width=150 src="imperial_address.png">		-->
 			<img height=25 width=140 src="URI.png">

@@ -575,8 +575,8 @@ analogous spectral sequence in Borel cohomology.
 </span>
 Published
 in <em>International Mathematics Research Notices</em>.
-<span style="color:#ff0000">The published version differs substantially from the arXiv version</span>, 
-which requires an update.
+Published in the <i>Proceedings of the American Mathematical Society</i>.
+<span style="color:#ff0000">The arXiv version requires an update to match the published version</span>, which differs substantially.
 
 
 <li>
@@ -591,7 +591,7 @@ through his development of GKM-theory and I noticed older methods gave a clean p
 This also gave me the chance to publish a proof of a structure result from a late, unpubished version of my thesis which was in danger of becoming folklore. 
 </span>
 Published in the <i>Proceedings of the American Mathematical Society</i>.
-<span style="color:#ff0000">The published version differs substantially from the arXiv version</span>, 
+<span style="color:#ff0000">The arXiv version requires an update to match the published version</span>, which differs substantially.
 
 
 <li>
@@ -622,7 +622,10 @@ and proves the underlying homogeneous space is formal and a
 regularity criterion for equivariant formality of an isotropy action.
 </span>
 Published in the <i>Journal of the London Mathematical Society</i>.
-
+<span style="color:#ff0000">Example 3.6 is incorrect, 
+	as Manuel Amann pointed out.</span>
+	This does not affect the other results of the paper, 
+	but also requires an arXiv update.
 
 
 <li>
@@ -844,16 +847,15 @@ College Street -->
 <a class="address" href="http://www.ontario.ca/">ON</a> &nbsp;  
 <a class="address">M5T 3J1</a>
 -->
+<!--
 <a class="address" href="https://www.imperial.ac.uk/">Imperial College</a>
 	<a class="address" href="http://en.wikipedia.org/wiki/Vertical_bar">|<a>
 <a class="address" href="https://www.london.gov.uk/">London</a>
 <a class="address" href="https://www.southwest.com">SW</a><a class="address" href="https://en.wikipedia.org/wiki/72_(number)">7 2</a><a class="address" href="https://az.gov/">AZ</a>,	
 <a class="address" href="https://www.gov.uk/">UK</a> &nbsp;  
-
+-->
 </p>
 </td></tr></table>
 </center>
 </body>
 </html>
-
-

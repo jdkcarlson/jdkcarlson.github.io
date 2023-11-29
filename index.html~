@@ -387,14 +387,13 @@ To be published
 in <em>Forum of Mathematics, Sigma</em>. 
 <li>
 	
-	<a href="prod.pdf">	Products on Tor</a>
+	<a href="https://arxiv.org/abs/2311.16007">Products on Tor</a>
 	<p>
 <span class="blink">
 	We compare the product on Tor we construct to show Munkholm's isomorphism is additive
 	with a product suggested by Munkholm and a product on the two-sided bar construction
 	defined by Franz figuring in the biquotient paper.
 </span>
-<span style="color:#ff0000">Not yet arXived.</span>
 <li>
 	<a href="conf.pdf">The cohomology of homogeneous spaces in historical context</a>
 	<p>
@@ -565,7 +564,10 @@ only be updated on the arXiv when finalized.
 <!--
 <li><a href="http://arxiv.org/abs/1810.09685">The equivariant K-theory of an isotropy action</a>. <p>
 -->
-<li><a href="https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnac106/6612200?guestAccessKey=bcc14332-c502-4671-8118-30d09fc0c0f3">K-theory and formality</a>. 
+<li>
+<!--	<a href="https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnac106/6612200?guestAccessKey=bcc14332-c502-4671-8118-30d09fc0c0f3">
+-->
+<a href="http://arxiv.org/abs/1810.09685">K-theory and formality</a>. 
 	<p>
 <span class="blink">
 The main result of this paper establishes as corollaries the equivariant K-theory rings in basically all the known equivariantly formal examples.
@@ -577,12 +579,11 @@ analogous spectral sequence in Borel cohomology.
 Published
 in <em>International Mathematics Research Notices</em>.
 Published in the <i>Proceedings of the American Mathematical Society</i>.
-<span style="color:#ff0000">The arXiv version requires an update to match the published version</span>, which differs substantially.
 
 
 <li>
-	<!--<a href="http://arxiv.org/abs/1611.01175">The Borel equivariant cohomology of real Grassmannians</a>.-->
-<a href="https://www.ams.org/journals/proc/2021-149-10/S0002-9939-2021-14906-X">Grassmannians and the equivariant cohomology of isotropy actions</a>.
+<a href="http://arxiv.org/abs/1611.01175">
+<!--<a href="https://www.ams.org/journals/proc/2021-149-10/S0002-9939-2021-14906-X">-->Grassmannians and the equivariant cohomology of isotropy actions</a>.
 <p>
 
 <span class="blink">
@@ -592,8 +593,6 @@ through his development of GKM-theory and I noticed older methods gave a clean p
 This also gave me the chance to publish a proof of a structure result from a late, unpubished version of my thesis which was in danger of becoming folklore. 
 </span>
 Published in the <i>Proceedings of the American Mathematical Society</i>.
-<span style="color:#ff0000">The arXiv version requires an update to match the published version</span>, which differs substantially.
-
 
 <li>
 	<a href="https://comptes-rendus.academie-sciences.fr/mathematique/articles/10.5802/crmath.235/">The K-theory of the conjugation action</a>.
@@ -626,7 +625,7 @@ Published in the <i>Journal of the London Mathematical Society</i>.
 <span style="color:#ff0000">Example 3.6 is incorrect, 
 	as Manuel Amann pointed out.</span>
 	This does not affect the other results of the paper, 
-	but also requires an arXiv update.
+	but requires an arXiv update, waiting on a reply from my coauthor.
 
 
 <li>

@@ -196,7 +196,7 @@
 	</li>
 	<li>
 		<h1>
-			hat. Jeffrey D. Carlson
+			 Jeffrey D. Carlson
 		</h1>
 			<div class="pronoun">(he/his)</div>
 		<p>	
@@ -407,7 +407,7 @@ in <em>Forum of Mathematics, Sigma</em>.
 	volume <em>Group Actions and Equivariant Cohomology</em>.
 	<span style="color:#ff0000">
 The arXiv version is already better than the version to be published, 
-and this gap is only expected to change with subsequent updates.
+and this gap is only expected to increase with subsequent updates.
 </span>
 
 
@@ -564,10 +564,9 @@ An outgrowth of the joint paper below.
 The appendices include lemmas providing a general framework for such computations in an arbitrary equivariant cohomology theory vanishing in certain degrees and a curious additional structure
 on the Mayer&ndash;Vietoris sequence no one seems to have discussed.
 </span>
-This work is under revision following substantial 
+<span style="color:#ff0000">This work is under revision following substantial 
 referee feedback at <em>Advances</em> and will
-only be updated on the arXiv when finalized.
-<span style="color:#ff0000">The finished version will differ substantially from the arXiv version</span>.
+only be updated on the arXiv when finalized</span>
 
 
 <!--

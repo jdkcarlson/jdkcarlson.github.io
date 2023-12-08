@@ -327,6 +327,11 @@ in my case specifically as applied to Lie group actions on homogeneous spaces. I
 <h2 id="recent">
 Papers
 </h2>
+<span style="color:#ff0000">N.B.</span>:
+	Not everything is up on the arXiv.
+	arXived versions may not agree with published versions,
+	but are invariably improvements.
+
 <p align="right">
 <a class="location">
 	<span id="recuperar" onclick="runnerUp()"><!--Display commentary-->More
@@ -358,9 +363,6 @@ function runnerUp() {
 <p>
 
 
-<span style="color:#ff0000">N.B.</span>:
-	Not all of this is up on the arXiv,
-	and arXived versions may not agree with published versions.
 <ul>
 	
 <li>
@@ -629,7 +631,7 @@ regularity criterion for equivariant formality of an isotropy action.
 </span>
 Published in the <i>Journal of the London Mathematical Society</i>.
 <p>
-<span style="color:#ff0000">N.B.</span>:Example 3.6 is incorrect, 
+<span style="color:#ff0000">N.B.</span>: Example 3.6 is incorrect, 
 	as Manuel Amann pointed out.
 	This does not affect the other results of the paper, 
 	but requires a corrigendum and an

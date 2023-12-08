@@ -358,10 +358,9 @@ function runnerUp() {
 <p>
 
 
-	<span style="color:#ff0000">N.B.:
+<span style="color:#ff0000">N.B.</span>:
 	Not all of this is up on the arXiv,
 	and arXived versions may not agree with published versions.
-	</span>
 <ul>
 	
 <li>
@@ -405,7 +404,7 @@ in <em>Forum of Mathematics, Sigma</em>.
 </span>
 	To be published in the <em>Contemp. Math.</em> 
 	volume <em>Group Actions and Equivariant Cohomology</em>.
-	<br />
+	<p>
 	<span style="color:#ff0000">N.B.</span>:
 The arXiv version is already better than the version to be published, 
 and this gap is only expected to increase with subsequent updates.

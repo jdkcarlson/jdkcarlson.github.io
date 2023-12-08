@@ -359,8 +359,9 @@ function runnerUp() {
 
 
 	<span style="color:#ff0000">N.B.:
-	Not all of this is up (or up-to-date) on the arXiv
-	and this needs to be fixed shortly.</span>
+	Not all of this is up (or up-to-date) on the arXiv,
+	and arXived versions may not agree with published versions.
+	</span>
 <ul>
 	
 <li>
@@ -404,6 +405,12 @@ in <em>Forum of Mathematics, Sigma</em>.
 </span>
 	To be published in the <em>Contemp. Math.</em> 
 	volume <em>Group Actions and Equivariant Cohomology</em>.
+	<span style="color:#ff0000">
+The arXiv version is already better than the version to be published, 
+and this gap is only expected to change with subsequent updates.
+</span>
+
+
 <p>
 <li>
 
@@ -444,7 +451,7 @@ in <em>Forum of Mathematics, Sigma</em>.
 	among other things on a lemma proven in Joel Wolf's 1973 Brown dissertation
 	but never published, 
 	which I wound up reproving for lack of access.
-	(The one copy of this thesis in the world
+	(The seemingly one existing copy of this thesis 
 	is not available for loan.)
 	On a recent trip to Providence,
 	I reserved time in the rare books room at
@@ -486,7 +493,8 @@ in dimensions up to four, and the proof otherwise relies
 on considerations connected with equivariant complex cobordism.
 </span>
 <span style="color:#ff0000">
-Still in progress, much changed; ask if you want a more recent version.
+Still in progress, much changed, and approaching submittability; 
+ask if you want a more recent version.
 </span>
 
 <li>
@@ -556,7 +564,8 @@ An outgrowth of the joint paper below.
 The appendices include lemmas providing a general framework for such computations in an arbitrary equivariant cohomology theory vanishing in certain degrees and a curious additional structure
 on the Mayer&ndash;Vietoris sequence no one seems to have discussed.
 </span>
-This work is under revision following referee comments at <em>Advances</em> and will
+This work is under revision following substantial 
+referee feedback at <em>Advances</em> and will
 only be updated on the arXiv when finalized.
 <span style="color:#ff0000">The finished version will differ substantially from the arXiv version</span>.
 
@@ -600,7 +609,6 @@ Published in the <i>Proceedings of the American Mathematical Society</i>.
 <span class="blink">
 This is a 1999 result of Brylinski and Zhang; my observation was simply that with some planning, much of the proof could be sidestepped, resulting in a proof of less than a page.</span>
 Published in <i>Comptes Rendus</i>.
-<span style="color:#ff0000">Not yet arXived.</span>
 
 <li><a href="https://arxiv.org/abs/1802.02304">The equivariant cohomology ring of a cohomogeneity-one action</a>, with Oliver Goertsches, Chen He, and Liviu Mare.
 <p>
@@ -625,7 +633,8 @@ Published in the <i>Journal of the London Mathematical Society</i>.
 <span style="color:#ff0000">Example 3.6 is incorrect, 
 	as Manuel Amann pointed out.</span>
 	This does not affect the other results of the paper, 
-	but requires an arXiv update, waiting on a reply from my coauthor.
+	but requires a corrigendum and an
+	arXiv update, both waiting on a reply from my coauthor.
 
 
 <li>
@@ -766,7 +775,7 @@ Teaching
 </h2>
 <ul>
 <!-- I am not teaching over this summer. -->
-I taught commutative algebra at Imperial in Fall 2021 and 
+I taught commutative algebra at Imperial in Autumn 2021 and 
 was compelled to transcribe <a href="https://u.pcloud.link/publink/show?code=XZOCpLVZB5GlhAgxSJS2psOr9yTSRFf2fwak">complete lecture notes</a>,
 reproduced here for your approval.
 <!-- And <a href="comm_alg_ICL">here</a> are the problem sets and solutions. -->
@@ -790,7 +799,7 @@ CV and documentation
 <ul>
 <!--	<li>  -->
 <!-- OLD: <a href="publication_list_JDC.pdf">Publication list</a><br />-->
-Brief <a href="JDC_CV_Oct2023.pdf">vita</a> (valid as of Oct. 2023)<br />
+Brief <a href="JDC_CV_Dec2023.pdf">vita</a> (valid as of Dec. 2023)<br />
 <a href="research_statement_JDC_2023v1.pdf">Research statement</a> 
 (valid as of Oct. 2023)</a><br />
 <a href="http://arxiv.org/find/all/1/au:+Carlson_Jeffrey/0/1/0/all/0">arXiv preprints</a><br />

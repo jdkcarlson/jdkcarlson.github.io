@@ -628,8 +628,9 @@ and proves the underlying homogeneous space is formal and a
 regularity criterion for equivariant formality of an isotropy action.
 </span>
 Published in the <i>Journal of the London Mathematical Society</i>.
-<span style="color:#ff0000">Example 3.6 is incorrect, 
-	as Manuel Amann pointed out.</span>
+<p>
+<span style="color:#ff0000">N.B.</span>:Example 3.6 is incorrect, 
+	as Manuel Amann pointed out.
 	This does not affect the other results of the paper, 
 	but requires a corrigendum and an
 	arXiv update, both waiting on a reply from my coauthor.

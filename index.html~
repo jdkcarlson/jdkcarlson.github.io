@@ -376,7 +376,7 @@ where the base and total space had polynomial cohomology; Hans Munkholm's approa
 however, considered the EMSS of a pullback square with polynomial cohomology more generally,
 and thus applies to Borel cohomology of a homogeneous space, 
 cohomology of a biquotient, 
-or cohomology of the free free loop space of a space with polynomial cohomology
+or cohomology of the free loop space of a space with polynomial cohomology
 over any principal ideal domain.
 The answer is that it is Tor of the cohomology rings of the span of input spaces.
 
